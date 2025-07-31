@@ -9,7 +9,6 @@ tmp.*
 
 logs/
 weights/
-dump/
 demo/*.mp4
 demo/demo_images/
 src/loftr/utils/superglue.py
@@ -25,4 +24,3 @@ tools/draw_QccDayNights.py
 scripts/slurm/
 scripts/sbatch_submit.sh
 src/utils/client.py
-pretrained_models/*.ckpt
